@@ -1,0 +1,25 @@
+site_name: Madagascar
+
+copyright: Jurandy MARTINS &copy; 2020
+
+theme:
+  name: material
+  language: fr
+
+markdown_extensions:
+    - admonition
+
+nav:
+  - "Page d'accueil": index.md
+  - "Programme": programme.md
+  - "Quoi ?": quoi.md
+  - "Où ?": ou.md  
+  - "Qui ?": qui.md
+  - "Quand ?": quand.md
+  - "Comment ?": comment.md
+  - "Combien ?": combien.md
+  - "Pourquoi ?": pourquoi.md
+  - "Fin !": fin.md
+
+extra:
+  disqus: madagascar-presentation
